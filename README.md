@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Rehan Alam</h1>
 <h3 align="center">A passionate full stack  develovelper from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="C:\Users\alamr\Downloads\WhatsApp Image 2024-04-05 at 12.05.10 PM.jpeg"/>
