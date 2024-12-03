@@ -1,95 +1,85 @@
-<h1 align="center">Hi 👋, I'm Rehan Alam</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+<h1 align="center">🌟 Hi, I'm Rehan Alam 🌟</h1>
+<h3 align="center">A Passionate Full Stack Developer from Nepal 🌏</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohmadalamansari&label=Profile%20views&color=0e75b6&style=flat" alt="mohmadalamansari" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohmadalamansari&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/<your-twitter-username>" target="blank">
-    <img src="https://img.shields.io/twitter/follow/<your-twitter-username>?logo=twitter&style=for-the-badge" alt="<your-twitter-username>" />
-  </a>
+---
+
+<p align="center">
+  💻 Specializing in <strong>Full Stack Development</strong> | 🌐 Exploring Cloud & DevOps | ⚡ Cracking <strong>DSA Problems</strong>
 </p>
 
+---
 
-- 💬 Ask me about **DSA, Full Stack Development**
+<h2 align="center">🚀 About Me</h2>
 
-- 📫 How to reach me **alamrehan12345678@gmail.com**
+- 🔭 I’m currently working on **cutting-edge web applications**  
+- 💬 Ask me about **Full Stack Development, DSA, and Cloud Integration**  
+- 🌱 Constantly learning **AWS, Tailwind CSS, and React Ecosystem**  
+- 📫 Reach me at **alamrehan12345678@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rehanalam786/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/mohmad_rehan_alam/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
- <p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/<your-gfg-username>/profile" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
-  </a>
-</p>
-  <a href="https://leetcode.com/u/alamrehan/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/alamrehan1234561" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/rehanalam786" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <a href="https://twitter.com/mohmadalamrehan" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/mohmadalam/profile" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <a href="https://leetcode.com/alamrehan/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/alamrehan1234561" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-darkgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://instagram.com/mohmad_rehan_alam" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&" alt="mohmadalamansari" /></p>
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmadalamansari&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmadalamansari&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<h2 align="center">💡 Fun Fact</h2>
+<p align="center">
+  I believe every bug has a story to tell! Debugging is like solving puzzles, and I love them!
 </p>
