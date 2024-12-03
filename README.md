@@ -24,9 +24,11 @@
   <a href="https://www.instagram.com/mohmad_rehan_alam/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/alamrehan12345678/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" height="30" width="40" />
+ <p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/<your-gfg-username>/profile" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
   </a>
+</p>
   <a href="https://leetcode.com/u/alamrehan/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
