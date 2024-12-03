@@ -67,16 +67,7 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmadalamansari&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+<div align="center"> <h3>🚀 My Coding Journey</h3> <p>Here’s a glimpse of my GitHub activity and the languages I use the most. Let’s take a look at the stats!</p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="80%" /> </p> <h4>📈 Top Programming Languages</h4> <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmadalamansari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="80%" /> </p> <h4>📊 GitHub Stats Overview</h4> <p> <img src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="80%" /> </p> </div>
 ---
 
 <h2 align="center">💡 Fun Fact</h2>
