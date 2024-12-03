@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  💻 Specializing in <strong>Full Stack Development</strong> | 🌐 Exploring Cloud & DevOps | ⚡ Cracking <strong>DSA Problems</strong>
+  💻 Specializing in <strong>Full Stack Development</strong> | 🌐 Exploring | ⚡ Cracking <strong>DSA Problems</strong>
 </p>
 
 ---
@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently working on **cutting-edge web applications**  
 - 💬 Ask me about **Full Stack Development, DSA, and Cloud Integration**  
-- 🌱 Constantly learning **AWS, Tailwind CSS, and React Ecosystem**  
 - 📫 Reach me at **alamrehan12345678@gmail.com**
 
 ---
