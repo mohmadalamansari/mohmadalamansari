@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rehan Alam</h1>
 <h3 align="center">A passionate full stack  develovelper from Nepal</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/> -->
@@ -46,8 +45,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmadalamansari&show_icons=A&locale=en&layout=compact" alt="mohmadalamansari" /></p>
+/* <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmadalamansari&show_icons=A&locale=en&layout=compact" alt="mohmadalamansari" /></p> */
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&locale=en" alt="mohmadalamansari" /></p>
+/* <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&locale=en" alt="mohmadalamansari" /></p> */
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&" alt="mohmadalamansari" /></p>
+/* <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&" alt="mohmadalamansari" /></p> */
