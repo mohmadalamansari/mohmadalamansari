@@ -1,85 +1,93 @@
 <h1 align="center">Hi 👋, I'm Rehan Alam</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohmadalamansari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohmadalamansari&label=Profile%20views&color=0e75b6&style=flat" alt="mohmadalamansari" />
 </p>
 
----
-
-### 💡 About Me:
-- 🔭 I’m currently working on **Full Stack Projects**
-- 💬 Ask me about **DSA, Full Stack Development, and Problem-Solving**
-- 📫 Reach me at **alamrehan12345678@gmail.com**
-
----
-
-### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/rehanalam786/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/mohmad_rehan_alam/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+</p>
+
+- 💬 Ask me about **DSA, Full Stack Development**
+
+- 📫 How to reach me **alamrehan12345678@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rehanalam786/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/rehan.alam" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" />
-  </a>
-  <a href="https://leetcode.com/alamrehan/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+  <a href="https://www.instagram.com/mohmad_rehan_alam/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/alamrehan12345678/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" />
+    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/alamrehan1234561" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" />
+  <a href="https://leetcode.com/u/alamrehan/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/40/000000/nodejs.png" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <a href="https://www.hackerrank.com/alamrehan1234561" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmadalamansari&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
+
+
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-### 🚀 Fun Fact:
-- 🌟 **Coding is like solving a puzzle, and I love every piece of it!**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmadalamansari&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
