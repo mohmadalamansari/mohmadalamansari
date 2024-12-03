@@ -6,10 +6,11 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://twitter.com/<your-twitter-username>" target="blank">
+    <img src="https://img.shields.io/twitter/follow/<your-twitter-username>?logo=twitter&style=for-the-badge" alt="<your-twitter-username>" />
   </a>
 </p>
+
 
 - 💬 Ask me about **DSA, Full Stack Development**
 
@@ -82,9 +83,8 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohmadalamansari&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&" alt="mohmadalamansari" /></p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadalamansari&theme=radical" alt="GitHub Streak" />
 </p>
