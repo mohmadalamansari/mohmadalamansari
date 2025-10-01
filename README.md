@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center"># 💫 Hi 👋, I'm Rehan Alam</h1>
 <h3 align="center">A Passionate Full Stack Developer  || java developer 🌏</h3>
 
